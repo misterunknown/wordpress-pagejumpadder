@@ -1,0 +1,31 @@
+# Language file for PageJumpAdder
+# This file is distributed under the same license as the PageJumpAdder plugin.
+# Marco Dickert <marco@misterunknown.de>, 2016
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-13 16:22+0100\n"
+"PO-Revision-Date: 2016-11-13 16:26+0100\n"
+"Last-Translator: Marco Dickert <marco@misterunknown.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: pagejumpadder.php:116
+msgid "Page Jump Adder"
+msgstr ""
+
+#: pagejumpadder.php:123
+msgid "All posts were successfully edited."
+msgstr ""
+
+#: pagejumpadder.php:126
+#, php-format
+msgid "You can edit %d posts. Do you want to add page jumps to all of them?"
+msgstr ""
+
+#: pagejumpadder.php:128
+msgid "Yes, add page jumps to all posts!"
+msgstr ""
